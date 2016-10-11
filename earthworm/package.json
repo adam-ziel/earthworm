@@ -1,0 +1,14 @@
+{
+  "name": "interactive-selection1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "midi-writer-js": "^1.4.0"
+  }
+}
